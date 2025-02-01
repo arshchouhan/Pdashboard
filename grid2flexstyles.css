@@ -1,0 +1,26 @@
+.flex_container_2
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding:4px;
+    column-gap: 6px;
+}
+.flex_items_2
+{
+    border:solid rgb(42, 165, 142) 2px;
+    height:40px;
+    
+}
+#search
+{
+    width:250px;
+}
+#notify
+{
+width:40px;
+}
+#profie
+{
+width: 40px;
+}

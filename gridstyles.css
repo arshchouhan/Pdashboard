@@ -1,0 +1,14 @@
+.grid_container
+{
+    border:solid black 3px;
+    display: grid;
+    grid-template-columns:minmax(100px,auto) minmax(1200px,auto);
+    grid-template-rows: minmax(60px,auto) minmax(80vh,auto);
+    height: 96vh;
+    padding:4px;
+}
+
+.grid_item
+{
+    border:solid burlywood 3px;
+}
